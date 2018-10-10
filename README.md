@@ -2,6 +2,14 @@ Redes Neurais Artificiais Para Reconhecimento de Caracteres Numéricos em Imagens
 
 Autor: Eric Lau de Oliveira - 2018
 
+Tecnologias utilizadas:
+
+	Java 1.8
+
+	Eclipse IDE Oxygen
+	
+	MongoDB
+		
 Para fazer modificações no treinamento acesse o arquivo "Run.java", altere e execute.
 
 Para salvar os dados do treinamento e necessário ter instalado o MongoDB
