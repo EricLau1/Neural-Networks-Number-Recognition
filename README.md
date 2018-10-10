@@ -9,6 +9,10 @@ Tecnologias utilizadas:
 	Eclipse IDE Oxygen
 	
 	MongoDB
+	
+Códigos fonte no diretorio src:
+
+link: *https://github.com/EricLau1/Neural-Networks-Number-Recognition/tree/master/src/br/com/eric*
 		
 Para fazer modificações no treinamento acesse o arquivo "Run.java", altere e execute.
 
