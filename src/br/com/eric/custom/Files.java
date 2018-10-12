@@ -4,7 +4,7 @@ import java.io.File;
 
 public class Files {
 
-	public static final String DIR = "C:\\FILES";
+	public static final String DIR = "matrix_files";
 	
 	public static void make() {
 	

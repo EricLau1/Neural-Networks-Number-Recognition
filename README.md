@@ -13,10 +13,12 @@ Tecnologias utilizadas:
 Códigos fonte no diretorio src:
 
 link: *https://github.com/EricLau1/Neural-Networks-Number-Recognition/tree/master/src/br/com/eric*
-		
-Para fazer modificações no treinamento acesse o arquivo "Run.java", altere e execute.
 
-Para salvar os dados do treinamento e necessário ter instalado o MongoDB
+Configurar o Build Path para o driver do MongoDB no diretorio "lib"
+
+Para fazer modificações no treinamento dos neurônios, acesse o arquivo "Run.java", altere e execute.
+
+Para salvar os dados do treinamento e necessário ter instalado o MongoDB.
 
 Instalação do MongoDB:
 
